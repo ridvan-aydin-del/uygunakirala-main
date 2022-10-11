@@ -99,21 +99,15 @@ body{
     height: max-content;
     margin-block-end: 48px;
     padding-block-start: 40px;
-    
 }
 .all-icon{
     display: inline-block;
     align-items: center;
-    justify-content: space-between;
-    
 }
-
-
 .car-img{
     align-items: center;
     justify-content: center;
     display: flex;
-    
 }
 .car-back{
     width: 80px;
@@ -124,18 +118,118 @@ body{
     justify-content: center;
     border-radius: 50%;
 }
-/*.car-hover{
-    height: 100px;
-    width: 100px;
-    border: 1px solid red;
+.car-hover{
+    height: 90px;
+    width: 90px;
     border-radius: 50%;
     align-items: center;
     justify-content: center;
     display: flex;
-}*/
+}
+.elec-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.real-estate-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.furniture-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.fitness-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.books-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.hand-tools-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.shop-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.fashion-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.sports-hover{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.car-hover:hover{
+    border: 1px solid #6D26F2;
+}
+.elec-hover:hover{
+    border: 1px solid #F9CC4B;
+}
+.real-estate-hover:hover{
+    border: 1px solid #41A957;
+}
+.furniture-hover:hover{
+    border: 1px solid #00D9B1;
+}
+.fitness-hover:hover{
+    border: 1px solid #3CD9FF;
+}
+.books-hover:hover{
+    border: 1px solid #CE52C9;
+}
+.hand-tools-hover:hover{
+    border: 1px solid #0053F9;
+}
+.shop-hover:hover{
+    border: 1px solid #F82535;
+}
+.fashion-hover:hover{
+    border: 1px solid #BECA00;
+}
+.sports-hover:hover{
+    border: 1px solid #00EDFF;
+}
 .car-a{
-    width: 105px;
-    height: 110px;
+    
     display: inline-block;
     align-items: center;
     justify-content: center;
@@ -146,7 +240,6 @@ body{
     margin-inline-start: 25px;
 }
 .car-h2{
-    width: 80px;
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: center;
@@ -200,7 +293,7 @@ body{
     justify-content: center;
     border-radius: 50%;
 }
-.hang-tools-back{
+.hand-tools-back{
     width: 80px;
     height: 80px;
     background-color: #0053F9;
@@ -239,6 +332,7 @@ body{
 .main-img-img{
     border-radius: 10px;
     display: flex;
+    width: 100%;
 }
 .main-img-under-left-h1{
     font-size: 15px;
