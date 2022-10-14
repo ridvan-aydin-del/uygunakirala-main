@@ -925,6 +925,7 @@ body{
     .product-1-div{
         width: 315px;
         height: 100%;
+        
     }
     .product-1-img{
         width: 285px;
@@ -977,6 +978,7 @@ body{
     .product-2-div{
         width: 315px;
         height: 100%;
+        
     }
     .product-2-p-div{
         width: 130px;
@@ -1046,6 +1048,10 @@ body{
         margin: 30px 0px;
         width: 90%;
         margin-inline-start: 20px;
+    }
+    .product-div{
+        width: 100%;
+        height: max-content;
     }
 }
 .comment-left-right-div{
@@ -1269,12 +1275,59 @@ body{
         width: 16px;
         height: 16px;
     }
-    .footer-v2-hr{
-        
-    }
     .footer-v2-div{
         margin: 20px 0px 0px;
         display: block;
         padding: 0px 0px 100px;
     }
 }
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper1 {
+    width: 100%;
+    height: 100%;
+  }
+
+.swiper1-slide {
+    
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+  
